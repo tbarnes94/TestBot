@@ -1,0 +1,23 @@
+{
+  "name": "test-bot",
+  "version": "1.0.0",
+  "description": "\"# TestBot\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbarnes94/TestBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tbarnes94/TestBot/issues"
+  },
+  "homepage": "https://github.com/tbarnes94/TestBot#readme",
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "restify": "^4.3.0"
+  }
+}
